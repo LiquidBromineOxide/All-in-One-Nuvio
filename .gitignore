@@ -6,3 +6,5 @@ package-lock.json
 server.js
 test.js
 update_manifest_script.js
+.output.txt
+.background_output_*.txt

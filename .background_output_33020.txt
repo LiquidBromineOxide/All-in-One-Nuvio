@@ -1,9 +1,0 @@
-gh.exe : 
-At line:1 char:6
-+ "" | & "C:\Program Files\GitHub CLI\gh.exe" auth login --hostname git ...
-+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
-    + FullyQualifiedErrorId : NativeCommandError
- 
-! First copy your one-time code: CBBA-7712
-Open this URL to continue in your web browser: https://github.com/login/device
